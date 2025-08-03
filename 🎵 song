@@ -1,0 +1,61 @@
+M:4/4
+L:1/4
+Q:1/4=80
+K:Cmin
+
+V:1 clef=treble name="Electric Piano"
+| [C,Eb,G]4 [G,B,D]4 |
+| [A,C,E]4 [F,A,C]4 |
+| [C,Eb,G]1 z [G,B,D]1 z |
+| [A,C,E]1 z [F,A,C]1 z |
+| [C,Eb,G]1 z [G,B,D]1 z |
+| [A,C,E]1 z [F,A,C]1 z |
+| [C,Eb,G]2 [G,B,D]2 |
+| [A,C,E]2 [F,A,C]2 |
+| [C,Eb,G]1 [G,B,D]1 |
+| [A,C,E]1 [F,A,C]1 |
+| [C,Eb,G]1 [G,B,D]1 |
+| [A,C,E]1 [F,A,C]1 |
+| [C,Eb,G]1 z [G,B,D]1 z |
+| [A,C,E]1 z [F,A,C]1 z |
+| [A,C,E]4 z4 |
+| [C,Eb,G]4 z4 |
+
+V:2 clef=bass name="Synth Bass"
+| C,1 z G,1 z |
+| A,1 z F,1 z |
+| C,1 z G,1 z |
+| A,1 z F,1 z |
+| C,1 G,1 |
+| A,1 F,1 |
+| C,1 G,1 |
+| A,1 F,1 |
+| C,1 G,1 |
+| A,1 F,1 |
+| C,1 z G,1 z |
+| A,1 z F,1 z |
+| A,1 C,1 |
+| E,1 A,1 |
+
+V:3 clef=perc name="Drum set"
+| [^C,]1/4 z ^D,1/4 z |
+| B,,,1/4 z B,,,1/4 z |
+| B,,,1/4 ^D,1/4 B,,,1/4 ^D,1/4 |
+| ^D,1/4 ^D,1/4 B,,,1/4 ^C,1/4 |
+| ^D,1/4 ^D,1/4 B,,,1/4 B,,,1/4 |
+| [^C, ^D,]1/4 B,,,1/4 [^C, ^D,]1/4 B,,,1/4 |
+| B,,,1/4 ^D,1/4 B,,,1/4 ^D,1/4 |
+| B,,,1/4 z B,,,1/4 z |
+| ^D,1/4 ^D,1/4 B,,,1/4 B,,,1/4 |
+| [^C, ^D,]1/4 B,,,1/4 [^C, ^D,]1/4 B,,,1/4 |
+| B,,,1/4 z B,,,1/4 z |
+| [^C,]1/4 z ^D,1/4 z |
+
+V:4 clef=treble name="Arp Synth"
+| z4 z4 z4 z4 |
+| z4 z4 z4 z4 |
+| A1/4 C1/4 E1/4 A1/4 |
+| F1/4 A1/4 C1/4 F1/4 |
+| C1/4 E1/4 G1/4 C'1/4 |
+| G1/4 B1/4 D'1/4 G1/4 |
+| z4 z4 z4 z4 |
